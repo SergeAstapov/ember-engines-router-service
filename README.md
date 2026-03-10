@@ -5,6 +5,7 @@
 
 This addon provides an API for authoring a [Router service](https://api.emberjs.com/ember/release/classes/RouterService) used in ember-engines.
 
+!!!TEST!!!
 
 ## Compatibility
 
